@@ -1,0 +1,6 @@
+Apply to URLs starting with http://c2.com/cgi/
+
+div#wiki {
+  font: 18px/27px "Lucida Grande", "Helvetica Neue", Verdana;
+  width: 507px;
+}

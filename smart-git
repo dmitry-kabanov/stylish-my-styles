@@ -1,0 +1,17 @@
+Apply to:
+http://www.syntevo.com/smartgithg/documentation/
+http://www.syntevo.com/smartgithg/tour/
+
+div#main a {
+  font-size: 18px;
+}
+
+div#main p {
+  font-size: 18px;
+  color: #333;
+}
+
+div#main li {
+  font-size: 18px;
+  color: #333;
+}

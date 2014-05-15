@@ -1,0 +1,10 @@
+Apply to URLs on the domain www.rememberthemilk.com
+
+body, input, select, textarea {
+    font-family: "Lucida Grande Medium", verdana, arial, helvetica, sans-serif;
+    font-size: 16px;
+}
+
+div.appfooter-news-content {
+    display: none;
+}

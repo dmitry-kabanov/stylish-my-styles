@@ -1,0 +1,10 @@
+Apply to URLs on the domain mail.google.com
+
+td.Bu.y3 div.nH[style] {
+  width: 0px !important;
+}
+
+td.Bu.y3 > div.y4 {
+  width: 0px;
+  display: none;
+}
