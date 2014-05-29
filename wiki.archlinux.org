@@ -1,0 +1,8 @@
+URLs on the domain
+wiki.archlinux.org
+
+div#content {
+  width: 500px;
+}
+
+Zoom 150 % in the browser.
