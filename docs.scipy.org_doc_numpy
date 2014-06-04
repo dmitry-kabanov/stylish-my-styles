@@ -1,0 +1,7 @@
+URLs starting with:
+http://docs.scipy.org/doc/numpy
+
+div.bodywrapper {
+  font-size: 18px;
+  line-height: 24px;
+}
