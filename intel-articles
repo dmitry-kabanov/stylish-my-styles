@@ -1,0 +1,17 @@
+URLs starting with:
+https://software.intel.com/en-us/articles/
+
+.content-inner .block {
+  margin: 0 auto;
+  width: 635px;
+  font: 18px/27px "Helvetica Neue";
+  color: black;
+}
+
+pre {
+  width: 900px;
+}
+
+div#comments {
+  font-size: 1.2em;
+}
