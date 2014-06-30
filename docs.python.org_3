@@ -2,6 +2,10 @@ URL starts with
 docs.python.org/3
 
 div.body {
-    width: 451px;
-    font: 16px/24px 'Lucida Grande', Arial;
+    width: 507px;
+    font: 18px/27px Georgia, serif;
+}
+
+div.body pre {
+  width: 800px;
 }
